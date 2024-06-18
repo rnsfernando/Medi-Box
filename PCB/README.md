@@ -45,6 +45,16 @@ For further information on how to work with EasyEDA, you can refer to the [EasyE
 - `1-Schematic_Smart Medi Box.json`: Schematic design file.
 - `1-PCB_Layout copy.json`: PCB layout design file.
 
+## PCB Design
+### 2D View
+![2D View](images/2D-View.png)
+### 3D View
+![3D View](images/3D-View.png)
+### Bottom Layer
+![Bottom Layer](images/BottomLayer.png)
+### Top Layer
+![Top Layer](images/TopLayer.png)
+
 For more details on the overall Smart MediBox project, including the firmware and setup instructions, refer to the [main README section](#).
 
 

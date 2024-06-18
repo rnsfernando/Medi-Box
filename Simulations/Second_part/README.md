@@ -73,3 +73,4 @@ The Medibox project uses an ESP32 microcontroller to simulate a medicine reminde
 1. Import the respective Node-RED flow from the `NodeRED_Flow` folder.
 2. Deploy the flow on the Node-RED dashboard.
 3. Interact with the dashboard to observe the light intensity monitoring and servo control functionalities.
+   

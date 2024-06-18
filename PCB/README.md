@@ -12,8 +12,8 @@ This repository includes the PCB and schematic designs for the Smart MediBox, cr
 
 ### Files Included
 
-- `Smart_MediBox_Schematic.json`: The schematic design file for the Smart MediBox.
-- `Smart_MediBox_PCB.json`: The PCB layout design file for the Smart MediBox.
+- `1-Schematic_Smart Medi Box.json`: The schematic design file for the Smart MediBox.
+- `1-PCB_Layout copy.json`: The PCB layout design file for the Smart MediBox.
 
 ### How to Use
 
@@ -42,8 +42,8 @@ For further information on how to work with EasyEDA, you can refer to the [EasyE
 
 ## Repository Contents
 
-- `Smart_MediBox_Schematic.json`: Schematic design file.
-- `Smart_MediBox_PCB.json`: PCB layout design file.
+- `1-Schematic_Smart Medi Box.json`: Schematic design file.
+- `1-PCB_Layout copy.json`: PCB layout design file.
 
 For more details on the overall Smart MediBox project, including the firmware and setup instructions, refer to the [main README section](#).
 

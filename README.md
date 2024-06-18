@@ -54,6 +54,25 @@ The Smart MediBox is an intelligent device designed to ensure timely medication 
     <li><strong>Operation:</strong> The device will automatically provide reminders and monitor environmental conditions.</li>
     <li><strong>Web Dashboard:</strong> Access the web dashboard from any internet-enabled device to manage settings and view alerts.</li>
 </ol>
+### 2D View
+
+![2D View](path/to/2D-View.png)
+
+### 3D View
+
+![3D View](path/to/3D-View.png)
+
+### Bottom Layer
+
+![Bottom Layer](path/to/BottomLayer.png)
+
+### Dashboard
+
+![Dashboard](path/to/Dashboard.png)
+
+### Top Layer
+
+![Top Layer](path/to/TopLayer.png)
 
 
 </body>
